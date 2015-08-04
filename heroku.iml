@@ -13,7 +13,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -24,8 +24,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:3.0-alpha-1" level="project" />
-    <orderEntry type="library" name="Maven: javaee:javaee-api:5" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: javax:javaee-web-api:6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-logging-juli:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jasper:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-servlet-api:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-juli:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-el-api:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-api:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-util:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jasper-el:7.0.57" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jsp-api:7.0.57" level="project" />
   </component>
 </module>

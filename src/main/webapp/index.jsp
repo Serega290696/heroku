@@ -11,6 +11,7 @@
     <title>Hello Heroku!</title>
 </head>
 <body>
+<h2>Hello Heroku!</h2>
 Heroku is behind you. . .
 New message!
 </body>
