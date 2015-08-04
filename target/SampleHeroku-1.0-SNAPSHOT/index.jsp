@@ -12,6 +12,5 @@
 </head>
 <body>
 Heroku is behind you. . .
-New message!
 </body>
 </html>
